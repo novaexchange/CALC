@@ -1,0 +1,9 @@
+Building CaliphCoin
+
+See doc/readme-qt.rst for instructions on building CaliphCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CaliphCoin.
+
+See doc/build-*.txt for instructions on building CaliphCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CaliphCoin.
